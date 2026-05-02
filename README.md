@@ -5,6 +5,10 @@ This project allows users to search for any GitHub profile and view key details 
 
 ---
 
+##  Live Demo
+https://riya-github-finder.netlify.app
+---
+
 ##  Features
 
 - Search GitHub users by username
